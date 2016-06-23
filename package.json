@@ -1,0 +1,31 @@
+{
+  "name": "another-universal-react-router-redux-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "babel-node ./server/serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "babel-register": "^6.9.0",
+    "express": "^4.13.4",
+    "isomorphic-fetch": "^2.2.1",
+    "json-loader": "^0.5.4",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.4.1",
+    "react-router-redux": "^4.0.5",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
